@@ -140,7 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="로봇청소기.cpp" />
+    <ClCompile Include="바이러스.cpp" />
     <ClCompile Include="숨바꼭질.cpp" />
+    <ClCompile Include="숨바꼭질2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
