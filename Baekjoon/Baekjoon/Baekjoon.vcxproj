@@ -140,9 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="로봇청소기.cpp" />
+    <ClCompile Include="미로탈출하기.cpp" />
     <ClCompile Include="바이러스.cpp" />
     <ClCompile Include="섬의개수.cpp" />
     <ClCompile Include="숨바꼭질.cpp" />
+    <ClCompile Include="숨바꼭질1복습.cpp" />
     <ClCompile Include="숨바꼭질2.cpp" />
     <ClCompile Include="숨바꼭질22.cpp" />
     <ClCompile Include="숨바꼭질222.cpp" />

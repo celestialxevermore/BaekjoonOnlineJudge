@@ -42,5 +42,11 @@
     <ClCompile Include="숨바꼭질222.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="숨바꼭질1복습.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="미로탈출하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
