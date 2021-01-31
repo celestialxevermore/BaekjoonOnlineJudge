@@ -144,6 +144,8 @@
     <ClCompile Include="섬의개수.cpp" />
     <ClCompile Include="숨바꼭질.cpp" />
     <ClCompile Include="숨바꼭질2.cpp" />
+    <ClCompile Include="숨바꼭질22.cpp" />
+    <ClCompile Include="숨바꼭질222.cpp" />
     <ClCompile Include="안전영역.cpp" />
     <ClCompile Include="유기농배추.cpp" />
   </ItemGroup>
