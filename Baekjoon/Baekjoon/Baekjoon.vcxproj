@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="로봇.cpp" />
+    <ClCompile Include="로봇2.cpp" />
     <ClCompile Include="로봇청소기.cpp" />
     <ClCompile Include="미로탈출하기.cpp" />
     <ClCompile Include="바이러스.cpp" />
@@ -150,6 +152,7 @@
     <ClCompile Include="숨바꼭질222.cpp" />
     <ClCompile Include="안전영역.cpp" />
     <ClCompile Include="유기농배추.cpp" />
+    <ClCompile Include="탈출.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
