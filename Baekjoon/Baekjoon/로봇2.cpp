@@ -33,11 +33,14 @@ int minimum = 10000;
 void BFS(Start start) {
 
 	while (!Q.empty()) {
-		
+		Start current;
+		current = Q.front();
+		Q.pop();
 
 		for (int i = 0; i < 4; i++) {
-			
-
+			int x = current.x+dx[i];
+			int y = current.y+dy[i];
+			int direction = i;
 			if (map[x][y] == 1) {
 				printf("방향 : %c // 좌표 : (%d,%d) 해당 부분은 벽에 해당합니다. \n\n", dir[i], x, y);
 				continue;
@@ -45,6 +48,13 @@ void BFS(Start start) {
 
 			//길이 지금 뚫려있는 경우!! 
 			if (map[x][y] == 0) {
+
+				//방향을 확인해야됨... 오른쪽인지 왼쪽인지 
+				//동쪽인 경우 
+				if (direction == 0) {
+
+				}
+
 
 			}
 
@@ -81,14 +91,14 @@ int main() {
 	Start start;
 	Start destination;
 
-	start.x = rstart;
-	start.y = cstart;
+	start.x = rstart-1;
+	start.y = cstart-1;
 	start.direction = dirstart;
 	start.movecnt = 0;
 
 
-	destination.x = rdestination;
-	destination.y = cdestination;
+	destination.x = rdestination-1;
+	destination.y = cdestination-1;
 	destination.direction = dirdestination;
 
 
