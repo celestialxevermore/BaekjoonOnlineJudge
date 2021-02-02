@@ -57,5 +57,11 @@
     <ClCompile Include="로봇2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bfs연습.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="토토마토.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
