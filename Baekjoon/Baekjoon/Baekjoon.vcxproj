@@ -169,6 +169,7 @@
     <ClCompile Include="늑대와양tmp.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="단지번호붙이기2.cpp" />
+    <ClCompile Include="단지번호붙이기BFS.cpp" />
     <ClCompile Include="로봇.cpp" />
     <ClCompile Include="로봇2.cpp" />
     <ClCompile Include="로봇청소기.cpp" />

@@ -339,6 +339,9 @@
     <ClCompile Include="상범 빌딩.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="단지번호붙이기BFS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="tmp.체ㅔ" />
