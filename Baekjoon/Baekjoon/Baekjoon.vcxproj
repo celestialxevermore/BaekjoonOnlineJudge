@@ -149,8 +149,8 @@
     <ClCompile Include="k진수출력.cpp" />
     <ClCompile Include="LIS.cpp" />
     <ClCompile Include="pair자료형.cpp" />
-    <ClCompile Include="test.cpp" />
-    <ClCompile Include="tmp.cpp" />
+    <ClCompile Include="print1.cpp" />
+    <ClCompile Include="testtest.cpp" />
     <ClCompile Include="Uglynumber.cpp" />
     <ClCompile Include="vector생성방법.cpp" />
     <ClCompile Include="가장긴증가하는부분수열.cpp" />
@@ -161,6 +161,7 @@
     <ClCompile Include="공주구하기(조세퍼스)답.cpp" />
     <ClCompile Include="공주구하기큐.cpp" />
     <ClCompile Include="구슬 탈출.cpp" />
+    <ClCompile Include="구슬탈출.cpp" />
     <ClCompile Include="그래프최단거리.cpp" />
     <ClCompile Include="기차운행.cpp" />
     <ClCompile Include="기차운행2.cpp" />
@@ -208,6 +209,8 @@
     <ClCompile Include="숨바꼭질22.cpp" />
     <ClCompile Include="숨바꼭질222.cpp" />
     <ClCompile Include="스타트링크.cpp" />
+    <ClCompile Include="스택.cpp" />
+    <ClCompile Include="스택2.cpp" />
     <ClCompile Include="아나그램.cpp" />
     <ClCompile Include="아나그램2.cpp" />
     <ClCompile Include="아마존인터뷰.cpp" />

@@ -87,9 +87,6 @@
     <ClCompile Include="pair자료형.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Uglynumber.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -330,9 +327,6 @@
     <ClCompile Include="휴가해설.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="tmp.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="토맛토마토.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -340,6 +334,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="단지번호붙이기BFS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구슬탈출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="print1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="testtest.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
