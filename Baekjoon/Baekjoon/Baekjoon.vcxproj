@@ -145,6 +145,7 @@
     <ClCompile Include="bfs연습.cpp" />
     <ClCompile Include="BFS최단거리해설.cpp" />
     <ClCompile Include="DFS.cpp" />
+    <ClCompile Include="DFS로미로찾기.cpp" />
     <ClCompile Include="DSLF.cpp" />
     <ClCompile Include="k진수출력.cpp" />
     <ClCompile Include="LIS.cpp" />
@@ -177,6 +178,7 @@
     <ClCompile Include="마구간 정하기.cpp" />
     <ClCompile Include="문자열2675.cpp" />
     <ClCompile Include="미로 탐색.cpp" />
+    <ClCompile Include="미로탈출.cpp" />
     <ClCompile Include="미로탈출하기.cpp" />
     <ClCompile Include="미로탐색.cpp" />
     <ClCompile Include="바이러스.cpp" />
@@ -193,12 +195,14 @@
     <ClCompile Include="부분집합(DFS).cpp" />
     <ClCompile Include="부분집합.cpp" />
     <ClCompile Include="블록의 최댓값.cpp" />
+    <ClCompile Include="빙산.cpp" />
     <ClCompile Include="사다리조작.cpp" />
     <ClCompile Include="상범 빌딩.cpp" />
     <ClCompile Include="섬나라아일랜드.cpp" />
     <ClCompile Include="섬의개수.cpp" />
     <ClCompile Include="송아지 찾기.cpp" />
     <ClCompile Include="송아지찾기(20210119).cpp" />
+    <ClCompile Include="송아지찾기.cpp" />
     <ClCompile Include="송아지찾기해설.cpp" />
     <ClCompile Include="순열구하기(20210119).cpp" />
     <ClCompile Include="순열구하기.cpp" />
@@ -208,6 +212,9 @@
     <ClCompile Include="숨바꼭질2.cpp" />
     <ClCompile Include="숨바꼭질22.cpp" />
     <ClCompile Include="숨바꼭질222.cpp" />
+    <ClCompile Include="숨바꼭질2222.cpp" />
+    <ClCompile Include="숫자판점프.cpp" />
+    <ClCompile Include="숫자판점프2.cpp" />
     <ClCompile Include="스타트링크.cpp" />
     <ClCompile Include="스택.cpp" />
     <ClCompile Include="스택2.cpp" />
