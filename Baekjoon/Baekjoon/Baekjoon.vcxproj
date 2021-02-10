@@ -149,15 +149,18 @@
     <ClCompile Include="DSLF.cpp" />
     <ClCompile Include="k진수출력.cpp" />
     <ClCompile Include="LIS.cpp" />
+    <ClCompile Include="LIS개념.cpp" />
     <ClCompile Include="pair자료형.cpp" />
     <ClCompile Include="print1.cpp" />
     <ClCompile Include="testtest.cpp" />
     <ClCompile Include="Uglynumber.cpp" />
     <ClCompile Include="vector생성방법.cpp" />
     <ClCompile Include="가장긴증가하는부분수열.cpp" />
+    <ClCompile Include="가장높은탑쌓기.cpp" />
     <ClCompile Include="경로 탐색.cpp" />
     <ClCompile Include="경로탐색(인접리스트).cpp" />
     <ClCompile Include="경로탐색답.cpp" />
+    <ClCompile Include="계단 오르기.cpp" />
     <ClCompile Include="공주구하기(조세퍼스).cpp" />
     <ClCompile Include="공주구하기(조세퍼스)답.cpp" />
     <ClCompile Include="공주구하기큐.cpp" />
@@ -167,6 +170,8 @@
     <ClCompile Include="기차운행.cpp" />
     <ClCompile Include="기차운행2.cpp" />
     <ClCompile Include="깊이우선탐색.cpp" />
+    <ClCompile Include="네트워크선자르기.cpp" />
+    <ClCompile Include="네트워크선자르기2.cpp" />
     <ClCompile Include="늑대와양.cpp" />
     <ClCompile Include="늑대와양tmp.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
@@ -224,6 +229,8 @@
     <ClCompile Include="아나그램2.cpp" />
     <ClCompile Include="아마존인터뷰.cpp" />
     <ClCompile Include="안전영역.cpp" />
+    <ClCompile Include="알리.cpp" />
+    <ClCompile Include="알리바바와40인의도둑.cpp" />
     <ClCompile Include="알파벳.cpp" />
     <ClCompile Include="영역구하기.cpp" />
     <ClCompile Include="영지선택.cpp" />
@@ -240,6 +247,8 @@
     <ClCompile Include="재귀함수.cpp" />
     <ClCompile Include="재귀함수이진수출력.cpp" />
     <ClCompile Include="조합구하기.cpp" />
+    <ClCompile Include="최대선연결하기.cpp" />
+    <ClCompile Include="최대선연결하기뭐가다른데.cpp" />
     <ClCompile Include="최대힙연습.cpp" />
     <ClCompile Include="최소비용연습.cpp" />
     <ClCompile Include="최소비용인접행렬.cpp" />
