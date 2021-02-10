@@ -175,6 +175,8 @@
     <ClCompile Include="로봇.cpp" />
     <ClCompile Include="로봇2.cpp" />
     <ClCompile Include="로봇청소기.cpp" />
+    <ClCompile Include="로봇청소기24991.cpp" />
+    <ClCompile Include="로봇청소기4991.cpp" />
     <ClCompile Include="마구간 정하기.cpp" />
     <ClCompile Include="문자열2675.cpp" />
     <ClCompile Include="미로 탐색.cpp" />
@@ -227,6 +229,7 @@
     <ClCompile Include="영지선택.cpp" />
     <ClCompile Include="올바른 괄호.cpp" />
     <ClCompile Include="올바른괄호.cpp" />
+    <ClCompile Include="왜 안되는데.cpp" />
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유니온앤파인드.cpp" />
     <ClCompile Include="이진트리.cpp" />
@@ -247,6 +250,7 @@
     <ClCompile Include="카카오먹방.cpp" />
     <ClCompile Include="탈출.cpp" />
     <ClCompile Include="토마토.cpp" />
+    <ClCompile Include="토마토3차원.cpp" />
     <ClCompile Include="토마토시바랄년아.cpp" />
     <ClCompile Include="토마토시발련아.cpp" />
     <ClCompile Include="토맛토마토.cpp" />
