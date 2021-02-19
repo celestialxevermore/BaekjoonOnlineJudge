@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2048(easy).cpp" />
     <ClCompile Include="BFS.cpp" />
     <ClCompile Include="BFS그래프 최단거리.cpp" />
     <ClCompile Include="BFS복습.cpp" />
@@ -166,6 +167,7 @@
     <ClCompile Include="공주구하기큐.cpp" />
     <ClCompile Include="구슬 탈출.cpp" />
     <ClCompile Include="구슬탈출.cpp" />
+    <ClCompile Include="구슬탈출2.cpp" />
     <ClCompile Include="그래프최단거리.cpp" />
     <ClCompile Include="기차운행.cpp" />
     <ClCompile Include="기차운행2.cpp" />
@@ -213,6 +215,7 @@
     <ClCompile Include="송아지찾기해설.cpp" />
     <ClCompile Include="순열구하기(20210119).cpp" />
     <ClCompile Include="순열구하기.cpp" />
+    <ClCompile Include="순열구하기다시.cpp" />
     <ClCompile Include="순열구하기연습.cpp" />
     <ClCompile Include="숨바꼭질.cpp" />
     <ClCompile Include="숨바꼭질1복습.cpp" />
@@ -246,6 +249,7 @@
     <ClCompile Include="재귀이.cpp" />
     <ClCompile Include="재귀함수.cpp" />
     <ClCompile Include="재귀함수이진수출력.cpp" />
+    <ClCompile Include="적록색약.cpp" />
     <ClCompile Include="조합구하기.cpp" />
     <ClCompile Include="최대선연결하기.cpp" />
     <ClCompile Include="최대선연결하기뭐가다른데.cpp" />
