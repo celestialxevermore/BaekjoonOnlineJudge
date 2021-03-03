@@ -277,7 +277,9 @@
     <ClCompile Include="최소최대씨발.cpp" />
     <ClCompile Include="최소힙.cpp" />
     <ClCompile Include="친구찾기.cpp" />
+    <ClCompile Include="카드역배치.cpp" />
     <ClCompile Include="카카오먹방.cpp" />
+    <ClCompile Include="컬러볼.cpp" />
     <ClCompile Include="타겟넘버.cpp" />
     <ClCompile Include="탈출.cpp" />
     <ClCompile Include="탑.cpp" />
