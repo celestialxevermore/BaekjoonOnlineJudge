@@ -280,6 +280,7 @@
     <ClCompile Include="카드역배치.cpp" />
     <ClCompile Include="카카오먹방.cpp" />
     <ClCompile Include="컬러볼.cpp" />
+    <ClCompile Include="케빈베이컨의6단계법칙.cpp" />
     <ClCompile Include="타겟넘버.cpp" />
     <ClCompile Include="탈출.cpp" />
     <ClCompile Include="탑.cpp" />

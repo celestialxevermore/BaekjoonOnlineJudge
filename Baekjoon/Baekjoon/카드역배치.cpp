@@ -11,13 +11,13 @@
 //
 //void swap(int start, int end) {
 //
-//	if ((end - start) / 2 != 0) {
+//	if ((end - start) % 2 != 0) {
 //		int index = (end - start + 1) / 2;
 //		for (int i = 0; i < index; i++) {
 //			swapp(&card[start + i], &card[end - i]);
 //		}
 //	}
-//	if ((end - start) / 2 == 0) {
+//	if ((end - start) % 2 == 0) {
 //		int mid = (end - start) / 2;
 //		for (int i = 0; i < mid; i++) {
 //			swapp(&card[start + i], &card[end - i]);
