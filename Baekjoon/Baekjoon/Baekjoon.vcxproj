@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -142,6 +142,7 @@
     <ClCompile Include="1,2,3구하기.cpp" />
     <ClCompile Include="1로만들기.cpp" />
     <ClCompile Include="2048(easy).cpp" />
+    <ClCompile Include="2차원배열의합.cpp" />
     <ClCompile Include="BFS.cpp" />
     <ClCompile Include="BFS그래프 최단거리.cpp" />
     <ClCompile Include="BFS복습.cpp" />
@@ -153,6 +154,7 @@
     <ClCompile Include="k진수출력.cpp" />
     <ClCompile Include="LIS.cpp" />
     <ClCompile Include="LIS개념.cpp" />
+    <ClCompile Include="N-queen.cpp" />
     <ClCompile Include="pair자료형.cpp" />
     <ClCompile Include="print1.cpp" />
     <ClCompile Include="RGB거리.cpp" />
@@ -161,6 +163,7 @@
     <ClCompile Include="vector생성방법.cpp" />
     <ClCompile Include="가장긴증가하는부분수열.cpp" />
     <ClCompile Include="가장높은탑쌓기.cpp" />
+    <ClCompile Include="결혼식.cpp" />
     <ClCompile Include="경로 찾기.cpp" />
     <ClCompile Include="경로 탐색.cpp" />
     <ClCompile Include="경로탐색(인접리스트).cpp" />
@@ -174,6 +177,7 @@
     <ClCompile Include="구슬탈출.cpp" />
     <ClCompile Include="구슬탈출2.cpp" />
     <ClCompile Include="그래프최단거리.cpp" />
+    <ClCompile Include="그림.cpp" />
     <ClCompile Include="기차운행.cpp" />
     <ClCompile Include="기차운행2.cpp" />
     <ClCompile Include="깊이우선탐색.cpp" />
@@ -185,6 +189,8 @@
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="단지번호붙이기2.cpp" />
     <ClCompile Include="단지번호붙이기BFS.cpp" />
+    <ClCompile Include="듣보잡.cpp" />
+    <ClCompile Include="로봇 청소기.cpp" />
     <ClCompile Include="로봇.cpp" />
     <ClCompile Include="로봇2.cpp" />
     <ClCompile Include="로봇청소기.cpp" />
@@ -206,6 +212,7 @@
     <ClCompile Include="백준2178번.cpp" />
     <ClCompile Include="백준dfsbfs.cpp" />
     <ClCompile Include="벽 부수고 이동하기.cpp" />
+    <ClCompile Include="벽부수고이동하기.cpp" />
     <ClCompile Include="병합정렬.cpp" />
     <ClCompile Include="봉우리.cpp" />
     <ClCompile Include="봉우리2.cpp" />
@@ -216,6 +223,7 @@
     <ClCompile Include="빙산.cpp" />
     <ClCompile Include="사다리조작.cpp" />
     <ClCompile Include="상범 빌딩.cpp" />
+    <ClCompile Include="색종이만들기.cpp" />
     <ClCompile Include="설탕배달.cpp" />
     <ClCompile Include="섬나라아일랜드.cpp" />
     <ClCompile Include="섬의개수.cpp" />
@@ -238,6 +246,7 @@
     <ClCompile Include="스타트링크.cpp" />
     <ClCompile Include="스택.cpp" />
     <ClCompile Include="스택2.cpp" />
+    <ClCompile Include="아기상어.cpp" />
     <ClCompile Include="아나그램.cpp" />
     <ClCompile Include="아나그램2.cpp" />
     <ClCompile Include="아마존인터뷰.cpp" />
@@ -283,6 +292,7 @@
     <ClCompile Include="케빈베이컨의6단계법칙.cpp" />
     <ClCompile Include="타겟넘버.cpp" />
     <ClCompile Include="탈출.cpp" />
+    <ClCompile Include="탈출다시.cpp" />
     <ClCompile Include="탑.cpp" />
     <ClCompile Include="토마토.cpp" />
     <ClCompile Include="토마토3차원.cpp" />
