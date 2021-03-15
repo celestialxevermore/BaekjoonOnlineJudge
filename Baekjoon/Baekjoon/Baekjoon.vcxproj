@@ -159,6 +159,7 @@
     <ClCompile Include="pair자료형.cpp" />
     <ClCompile Include="print1.cpp" />
     <ClCompile Include="RGB거리.cpp" />
+    <ClCompile Include="test1.c" />
     <ClCompile Include="testtest.cpp" />
     <ClCompile Include="Uglynumber.cpp" />
     <ClCompile Include="vector생성방법.cpp" />
@@ -187,6 +188,7 @@
     <ClCompile Include="네트워크선자르기2.cpp" />
     <ClCompile Include="늑대와양.cpp" />
     <ClCompile Include="늑대와양tmp.cpp" />
+    <ClCompile Include="다리 만들기.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="단지번호붙이기2.cpp" />
     <ClCompile Include="단지번호붙이기BFS.cpp" />
@@ -216,6 +218,7 @@
     <ClCompile Include="벽 부수고 이동하기.cpp" />
     <ClCompile Include="벽부수고이동하기.cpp" />
     <ClCompile Include="병합정렬.cpp" />
+    <ClCompile Include="보물섬.cpp" />
     <ClCompile Include="봉우리.cpp" />
     <ClCompile Include="봉우리2.cpp" />
     <ClCompile Include="부분집합(DFS).cpp" />
@@ -233,6 +236,7 @@
     <ClCompile Include="송아지찾기(20210119).cpp" />
     <ClCompile Include="송아지찾기.cpp" />
     <ClCompile Include="송아지찾기해설.cpp" />
+    <ClCompile Include="수들의합2.cpp" />
     <ClCompile Include="순열구하기(20210119).cpp" />
     <ClCompile Include="순열구하기.cpp" />
     <ClCompile Include="순열구하기다시.cpp" />
@@ -271,6 +275,7 @@
     <ClCompile Include="이진트리.cpp" />
     <ClCompile Include="이진트리일반큐.cpp" />
     <ClCompile Include="이항계수(메모이제이션).cpp" />
+    <ClCompile Include="인구이동.cpp" />
     <ClCompile Include="인접행렬.cpp" />
     <ClCompile Include="재귀이.cpp" />
     <ClCompile Include="재귀함수.cpp" />
@@ -297,6 +302,7 @@
     <ClCompile Include="탈출.cpp" />
     <ClCompile Include="탈출다시.cpp" />
     <ClCompile Include="탑.cpp" />
+    <ClCompile Include="텀프로젝트.cpp" />
     <ClCompile Include="토마토.cpp" />
     <ClCompile Include="토마토3차원.cpp" />
     <ClCompile Include="토마토시바랄년아.cpp" />
@@ -307,6 +313,7 @@
     <ClCompile Include="특정수만들기.cpp" />
     <ClCompile Include="특정수만들기2.cpp" />
     <ClCompile Include="평균과 가장 가까운값.cpp" />
+    <ClCompile Include="피보나치함수.cpp" />
     <ClCompile Include="피자배달거리.cpp" />
     <ClCompile Include="합이 같은 부분집합.cpp" />
     <ClCompile Include="휴가.cpp" />
