@@ -38,7 +38,7 @@
 //		Q.pop();
 //
 //
-//		//printf("현재 시작 정점 : %d 비용 : %d \n\n", currenttarget, currentcost);
+//		printf("현재 시작 정점 : %d 비용 : %d \n\n", currenttarget, currentcost);
 //		if (currentcost > dist[currenttarget]) { continue; }
 //		for (int i = 0; i < map[currenttarget].size(); i++) {
 //
@@ -47,7 +47,7 @@
 //			
 //			if (dist[nexttarget] > nextcost) {
 //
-//				//printf("현재 거리(%d)가 새로 들어온 거리(%d(%d+%d))보다 작으므로 갱신합니다. \n\n", dist[nexttarget], nextcost, map[currenttarget][i].second, currentcost);
+//				printf("현재 거리(%d)가 새로 들어온 거리(%d(%d+%d))보다 작으므로 갱신합니다. \n\n", dist[nexttarget], nextcost, map[currenttarget][i].second, currentcost);
 //				dist[nexttarget] = nextcost;
 //
 //				//저절로 <연산자에 의해 cost가 제일 작은 값이 큐의 최상단으로 올라감.
@@ -86,10 +86,10 @@
 //
 //
 //
-//	/*for (int i = 1; i <= n; i++) {
+//	for (int i = 1; i <= n; i++) {
 //		printf("%d ", dist[i]);
 //	}
-//	printf("\n");*/
+//	printf("\n");
 //	for (int i = 1; i <= n; i++) {
 //		if (i == tnode) {
 //			printf("%d", dist[i]);
