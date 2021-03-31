@@ -167,6 +167,8 @@
     <ClCompile Include="vector생성방법.cpp" />
     <ClCompile Include="가장긴증가하는부분수열.cpp" />
     <ClCompile Include="가장높은탑쌓기.cpp" />
+    <ClCompile Include="게리맨더링.cpp" />
+    <ClCompile Include="게리맨더링다시.cpp" />
     <ClCompile Include="결혼식.cpp" />
     <ClCompile Include="경로 찾기.cpp" />
     <ClCompile Include="경로 탐색.cpp" />
@@ -193,10 +195,12 @@
     <ClCompile Include="늑대와양.cpp" />
     <ClCompile Include="늑대와양tmp.cpp" />
     <ClCompile Include="다리 만들기.cpp" />
+    <ClCompile Include="다리 만만들기.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="단지번호붙이기2.cpp" />
     <ClCompile Include="단지번호붙이기BFS.cpp" />
     <ClCompile Include="듣보잡.cpp" />
+    <ClCompile Include="로 봇 청소기.cpp" />
     <ClCompile Include="로봇 청소기.cpp" />
     <ClCompile Include="로봇 청소기4991.cpp" />
     <ClCompile Include="로봇.cpp" />
@@ -224,6 +228,7 @@
     <ClCompile Include="백준dfsbfs.cpp" />
     <ClCompile Include="벽 부수고 이동하기.cpp" />
     <ClCompile Include="벽부수고이동하기.cpp" />
+    <ClCompile Include="벽부수고이동하기다시.cpp" />
     <ClCompile Include="병합정렬.cpp" />
     <ClCompile Include="보물섬.cpp" />
     <ClCompile Include="봉우리.cpp" />
@@ -258,6 +263,7 @@
     <ClCompile Include="숫자판점프.cpp" />
     <ClCompile Include="숫자판점프2.cpp" />
     <ClCompile Include="스타트링크.cpp" />
+    <ClCompile Include="스타트와 링크.cpp" />
     <ClCompile Include="스택.cpp" />
     <ClCompile Include="스택2.cpp" />
     <ClCompile Include="아기상어.cpp" />
@@ -270,7 +276,11 @@
     <ClCompile Include="알파벳.cpp" />
     <ClCompile Include="에디터.cpp" />
     <ClCompile Include="연결 요소의 개수.cpp" />
+    <ClCompile Include="연구소 다시.cpp" />
     <ClCompile Include="연구소.cpp" />
+    <ClCompile Include="연구소2.cpp" />
+    <ClCompile Include="연구소2다시.cpp" />
+    <ClCompile Include="연구소3.cpp" />
     <ClCompile Include="연속합.cpp" />
     <ClCompile Include="영역구하기.cpp" />
     <ClCompile Include="영지선택.cpp" />
@@ -280,6 +290,7 @@
     <ClCompile Include="욕심쟁이판다.cpp" />
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유니온앤파인드.cpp" />
+    <ClCompile Include="이분 그래프.cpp" />
     <ClCompile Include="이진트리.cpp" />
     <ClCompile Include="이진트리일반큐.cpp" />
     <ClCompile Include="이항계수(메모이제이션).cpp" />
@@ -291,6 +302,7 @@
     <ClCompile Include="재귀함수이진수출력.cpp" />
     <ClCompile Include="적록색약.cpp" />
     <ClCompile Include="제로.cpp" />
+    <ClCompile Include="조합.cpp" />
     <ClCompile Include="조합구하기.cpp" />
     <ClCompile Include="촌수계산.cpp" />
     <ClCompile Include="촌수계산2.cpp" />
@@ -304,6 +316,7 @@
     <ClCompile Include="최소최대씨발.cpp" />
     <ClCompile Include="최소힙.cpp" />
     <ClCompile Include="치즈.cpp" />
+    <ClCompile Include="치킨 거리.cpp" />
     <ClCompile Include="친구찾기.cpp" />
     <ClCompile Include="침투.cpp" />
     <ClCompile Include="카드역배치.cpp" />
@@ -313,6 +326,7 @@
     <ClCompile Include="키순서.cpp" />
     <ClCompile Include="타겟넘버.cpp" />
     <ClCompile Include="탈출.cpp" />
+    <ClCompile Include="탈출20210325.cpp" />
     <ClCompile Include="탈출다시.cpp" />
     <ClCompile Include="탑.cpp" />
     <ClCompile Include="텀프로젝트.cpp" />
@@ -321,6 +335,7 @@
     <ClCompile Include="토마토시바랄년아.cpp" />
     <ClCompile Include="토마토시발련아.cpp" />
     <ClCompile Include="토맛토마토.cpp" />
+    <ClCompile Include="퇴사2.cpp" />
     <ClCompile Include="트리의 부모찾기.cpp" />
     <ClCompile Include="트리의 지름.cpp" />
     <ClCompile Include="트리의 지름2.cpp" />

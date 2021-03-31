@@ -75,10 +75,10 @@
 //				int y = current.y + dy[i];
 //
 //				int w = current.wall+1;
-//				if (map[x][y] == 1) {
+//				/*if (map[x][y] == 1) {
 //					map[x][y] = 0;
-//				}
-//				if (!visited[w][x][y] && map[x][y] == 0 && x > 0 && y > 0 && x <= N && y <= M) {
+//				}*/
+//				if (!visited[w][x][y] && map[x][y] == 1 && x > 0 && y > 0 && x <= N && y <= M) {
 //					visited[w][x][y] = true;
 //					Node next;
 //					next.x = x;
@@ -87,7 +87,7 @@
 //					int nextcnt = current.cnt + 1;
 //					next.wall = nextwall;
 //					next.cnt = nextcnt;
-//					map[x][y] = 1;
+//					//map[x][y] = 1;
 //					//printf("next // x : %d y : %d cnt : %d wall break time : %d \n\n", next.x, next.y, next.cnt,next.wall);
 //					Q.push(next);
 //				}
