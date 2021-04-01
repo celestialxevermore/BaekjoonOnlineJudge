@@ -160,6 +160,7 @@
     <ClCompile Include="N-queen.cpp" />
     <ClCompile Include="pair자료형.cpp" />
     <ClCompile Include="print1.cpp" />
+    <ClCompile Include="PuyoPuyo.cpp" />
     <ClCompile Include="RGB거리.cpp" />
     <ClCompile Include="test1.c" />
     <ClCompile Include="testtest.cpp" />
@@ -175,6 +176,7 @@
     <ClCompile Include="경로탐색(인접리스트).cpp" />
     <ClCompile Include="경로탐색답.cpp" />
     <ClCompile Include="계단 오르기.cpp" />
+    <ClCompile Include="계단오르기.cpp" />
     <ClCompile Include="공주구하기(조세퍼스).cpp" />
     <ClCompile Include="공주구하기(조세퍼스)답.cpp" />
     <ClCompile Include="공주구하기큐.cpp" />
@@ -199,6 +201,7 @@
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="단지번호붙이기2.cpp" />
     <ClCompile Include="단지번호붙이기BFS.cpp" />
+    <ClCompile Include="드래곤커브.cpp" />
     <ClCompile Include="듣보잡.cpp" />
     <ClCompile Include="로 봇 청소기.cpp" />
     <ClCompile Include="로봇 청소기.cpp" />
@@ -266,6 +269,7 @@
     <ClCompile Include="스타트와 링크.cpp" />
     <ClCompile Include="스택.cpp" />
     <ClCompile Include="스택2.cpp" />
+    <ClCompile Include="신나는 함수 실행.cpp" />
     <ClCompile Include="아기상어.cpp" />
     <ClCompile Include="아나그램.cpp" />
     <ClCompile Include="아나그램2.cpp" />
@@ -301,6 +305,7 @@
     <ClCompile Include="재귀함수.cpp" />
     <ClCompile Include="재귀함수이진수출력.cpp" />
     <ClCompile Include="적록색약.cpp" />
+    <ClCompile Include="정수 삼각형.cpp" />
     <ClCompile Include="제로.cpp" />
     <ClCompile Include="조합.cpp" />
     <ClCompile Include="조합구하기.cpp" />
@@ -345,7 +350,9 @@
     <ClCompile Include="특정한 최단 경로.cpp" />
     <ClCompile Include="파티.cpp" />
     <ClCompile Include="평균과 가장 가까운값.cpp" />
+    <ClCompile Include="포도주 시식.cpp" />
     <ClCompile Include="프린터큐.cpp" />
+    <ClCompile Include="피보나치수2.cpp" />
     <ClCompile Include="피보나치함수.cpp" />
     <ClCompile Include="피자배달거리.cpp" />
     <ClCompile Include="합이 같은 부분집합.cpp" />
