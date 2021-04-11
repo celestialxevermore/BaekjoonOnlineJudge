@@ -145,6 +145,7 @@
     <ClCompile Include="2n타일링.cpp" />
     <ClCompile Include="2차원배열의합.cpp" />
     <ClCompile Include="ABCDE.cpp" />
+    <ClCompile Include="ATM.cpp" />
     <ClCompile Include="BFS.cpp" />
     <ClCompile Include="BFS그래프 최단거리.cpp" />
     <ClCompile Include="BFS복습.cpp" />
@@ -184,6 +185,7 @@
     <ClCompile Include="구슬 탈출.cpp" />
     <ClCompile Include="구슬탈출.cpp" />
     <ClCompile Include="구슬탈출2.cpp" />
+    <ClCompile Include="구슬탈출22.cpp" />
     <ClCompile Include="그래프최단거리.cpp" />
     <ClCompile Include="그림.cpp" />
     <ClCompile Include="기상청인턴신현수.cpp" />
@@ -196,11 +198,13 @@
     <ClCompile Include="네트워크선자르기2.cpp" />
     <ClCompile Include="늑대와양.cpp" />
     <ClCompile Include="늑대와양tmp.cpp" />
+    <ClCompile Include="다리 만들기 복습.cpp" />
     <ClCompile Include="다리 만들기.cpp" />
     <ClCompile Include="다리 만만들기.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="단지번호붙이기2.cpp" />
     <ClCompile Include="단지번호붙이기BFS.cpp" />
+    <ClCompile Include="동전0.cpp" />
     <ClCompile Include="드래곤커브.cpp" />
     <ClCompile Include="듣보잡.cpp" />
     <ClCompile Include="로 봇 청소기.cpp" />
@@ -240,6 +244,7 @@
     <ClCompile Include="부분집합.cpp" />
     <ClCompile Include="분해합.cpp" />
     <ClCompile Include="블록의 최댓값.cpp" />
+    <ClCompile Include="비밀 지도.cpp" />
     <ClCompile Include="빙산.cpp" />
     <ClCompile Include="사다리조작.cpp" />
     <ClCompile Include="상범 빌딩.cpp" />
@@ -263,6 +268,7 @@
     <ClCompile Include="숨바꼭질222.cpp" />
     <ClCompile Include="숨바꼭질2222.cpp" />
     <ClCompile Include="숨바꼭질3.cpp" />
+    <ClCompile Include="숨바꼭질4.cpp" />
     <ClCompile Include="숫자판점프.cpp" />
     <ClCompile Include="숫자판점프2.cpp" />
     <ClCompile Include="스타트링크.cpp" />
@@ -350,6 +356,7 @@
     <ClCompile Include="특정한 최단 경로.cpp" />
     <ClCompile Include="파티.cpp" />
     <ClCompile Include="평균과 가장 가까운값.cpp" />
+    <ClCompile Include="평범한 배낭.cpp" />
     <ClCompile Include="포도주 시식.cpp" />
     <ClCompile Include="프린터큐.cpp" />
     <ClCompile Include="피보나치수2.cpp" />
