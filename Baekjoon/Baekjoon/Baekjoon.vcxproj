@@ -171,6 +171,7 @@
     <ClCompile Include="가장높은탑쌓기.cpp" />
     <ClCompile Include="게리맨더링.cpp" />
     <ClCompile Include="게리맨더링다시.cpp" />
+    <ClCompile Include="게리맨더링다시다시.cpp" />
     <ClCompile Include="결혼식.cpp" />
     <ClCompile Include="경로 찾기.cpp" />
     <ClCompile Include="경로 탐색.cpp" />
@@ -291,6 +292,8 @@
     <ClCompile Include="연구소2.cpp" />
     <ClCompile Include="연구소2다시.cpp" />
     <ClCompile Include="연구소3.cpp" />
+    <ClCompile Include="연구소3복습.cpp" />
+    <ClCompile Include="연구소3해답.cpp" />
     <ClCompile Include="연속합.cpp" />
     <ClCompile Include="영역구하기.cpp" />
     <ClCompile Include="영지선택.cpp" />
@@ -327,6 +330,7 @@
     <ClCompile Include="최소최대씨발.cpp" />
     <ClCompile Include="최소힙.cpp" />
     <ClCompile Include="치즈.cpp" />
+    <ClCompile Include="치즈다시.cpp" />
     <ClCompile Include="치킨 거리.cpp" />
     <ClCompile Include="친구찾기.cpp" />
     <ClCompile Include="침투.cpp" />
@@ -341,6 +345,8 @@
     <ClCompile Include="탈출다시.cpp" />
     <ClCompile Include="탑.cpp" />
     <ClCompile Include="텀프로젝트.cpp" />
+    <ClCompile Include="테트로미노.cpp" />
+    <ClCompile Include="테트로미노2.cpp" />
     <ClCompile Include="토마토.cpp" />
     <ClCompile Include="토마토3차원.cpp" />
     <ClCompile Include="토마토시바랄년아.cpp" />
@@ -355,6 +361,7 @@
     <ClCompile Include="특정수만들기2.cpp" />
     <ClCompile Include="특정한 최단 경로.cpp" />
     <ClCompile Include="파티.cpp" />
+    <ClCompile Include="팰린드롬.cpp" />
     <ClCompile Include="평균과 가장 가까운값.cpp" />
     <ClCompile Include="평범한 배낭.cpp" />
     <ClCompile Include="포도주 시식.cpp" />
