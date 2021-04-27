@@ -188,6 +188,7 @@
     <ClCompile Include="구슬탈출2.cpp" />
     <ClCompile Include="구슬탈출22.cpp" />
     <ClCompile Include="그래프최단거리.cpp" />
+    <ClCompile Include="그룹단어체커.cpp" />
     <ClCompile Include="그림.cpp" />
     <ClCompile Include="기상청인턴신현수.cpp" />
     <ClCompile Include="기차운행.cpp" />
@@ -202,6 +203,7 @@
     <ClCompile Include="다리 만들기 복습.cpp" />
     <ClCompile Include="다리 만들기.cpp" />
     <ClCompile Include="다리 만만들기.cpp" />
+    <ClCompile Include="단어 공부.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="단지번호붙이기2.cpp" />
     <ClCompile Include="단지번호붙이기BFS.cpp" />
@@ -276,6 +278,7 @@
     <ClCompile Include="스타트와 링크.cpp" />
     <ClCompile Include="스택.cpp" />
     <ClCompile Include="스택2.cpp" />
+    <ClCompile Include="신규 아이디 추천.cpp" />
     <ClCompile Include="신나는 함수 실행.cpp" />
     <ClCompile Include="아기상어.cpp" />
     <ClCompile Include="아나그램.cpp" />
