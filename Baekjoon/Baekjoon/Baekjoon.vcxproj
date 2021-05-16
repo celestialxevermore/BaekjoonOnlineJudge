@@ -146,6 +146,7 @@
     <ClCompile Include="2차원배열의합.cpp" />
     <ClCompile Include="ABCDE.cpp" />
     <ClCompile Include="ATM.cpp" />
+    <ClCompile Include="A에서B.cpp" />
     <ClCompile Include="BFS.cpp" />
     <ClCompile Include="BFS그래프 최단거리.cpp" />
     <ClCompile Include="BFS복습.cpp" />
@@ -164,6 +165,7 @@
     <ClCompile Include="PuyoPuyo.cpp" />
     <ClCompile Include="RGB거리.cpp" />
     <ClCompile Include="test1.c" />
+    <ClCompile Include="test1.cpp" />
     <ClCompile Include="testtest.cpp" />
     <ClCompile Include="Uglynumber.cpp" />
     <ClCompile Include="vector생성방법.cpp" />
@@ -224,6 +226,7 @@
     <ClCompile Include="문자열2675.cpp" />
     <ClCompile Include="문제1번.cpp" />
     <ClCompile Include="미로 탈출.cpp" />
+    <ClCompile Include="미로 탐색 리바이벌.cpp" />
     <ClCompile Include="미로 탐색.cpp" />
     <ClCompile Include="미로탈출.cpp" />
     <ClCompile Include="미로탈출하기.cpp" />
@@ -251,6 +254,7 @@
     <ClCompile Include="비밀 지도.cpp" />
     <ClCompile Include="빙산.cpp" />
     <ClCompile Include="사다리조작.cpp" />
+    <ClCompile Include="삽입정렬.cpp" />
     <ClCompile Include="상범 빌딩.cpp" />
     <ClCompile Include="색종이만들기.cpp" />
     <ClCompile Include="설탕배달.cpp" />
@@ -261,8 +265,11 @@
     <ClCompile Include="송아지찾기.cpp" />
     <ClCompile Include="송아지찾기해설.cpp" />
     <ClCompile Include="수들의합2.cpp" />
+    <ClCompile Include="수정렬하기.cpp" />
+    <ClCompile Include="수정렬하기2.cpp" />
     <ClCompile Include="순열구하기(20210119).cpp" />
     <ClCompile Include="순열구하기.cpp" />
+    <ClCompile Include="순열구하기20210428.cpp" />
     <ClCompile Include="순열구하기다시.cpp" />
     <ClCompile Include="순열구하기연습.cpp" />
     <ClCompile Include="숨바꼭질.cpp" />
@@ -285,6 +292,7 @@
     <ClCompile Include="아나그램.cpp" />
     <ClCompile Include="아나그램2.cpp" />
     <ClCompile Include="아마존인터뷰.cpp" />
+    <ClCompile Include="안전 영역.cpp" />
     <ClCompile Include="안전영역.cpp" />
     <ClCompile Include="알리.cpp" />
     <ClCompile Include="알리바바와40인의도둑.cpp" />
@@ -306,6 +314,7 @@
     <ClCompile Include="왜 안되는데.cpp" />
     <ClCompile Include="욕심쟁이판다.cpp" />
     <ClCompile Include="유기농배추.cpp" />
+    <ClCompile Include="유기농배추리바이벌.cpp" />
     <ClCompile Include="유니온앤파인드.cpp" />
     <ClCompile Include="이분 그래프.cpp" />
     <ClCompile Include="이진트리.cpp" />
