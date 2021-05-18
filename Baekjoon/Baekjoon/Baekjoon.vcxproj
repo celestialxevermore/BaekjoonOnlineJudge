@@ -386,10 +386,12 @@
     <ClCompile Include="평범한 배낭.cpp" />
     <ClCompile Include="포도주 시식.cpp" />
     <ClCompile Include="프린터큐.cpp" />
+    <ClCompile Include="플로이드와샬.cpp" />
     <ClCompile Include="피보나치수2.cpp" />
     <ClCompile Include="피보나치함수.cpp" />
     <ClCompile Include="피자배달거리.cpp" />
     <ClCompile Include="합이 같은 부분집합.cpp" />
+    <ClCompile Include="회장뽑기.cpp" />
     <ClCompile Include="효율적인 해킹.cpp" />
     <ClCompile Include="휴가.cpp" />
     <ClCompile Include="휴가해설.cpp" />
