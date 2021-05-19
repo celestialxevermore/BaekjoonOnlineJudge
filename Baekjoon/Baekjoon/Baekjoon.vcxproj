@@ -211,6 +211,7 @@
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="단지번호붙이기2.cpp" />
     <ClCompile Include="단지번호붙이기BFS.cpp" />
+    <ClCompile Include="동전 2.cpp" />
     <ClCompile Include="동전0.cpp" />
     <ClCompile Include="드래곤커브.cpp" />
     <ClCompile Include="듣보잡.cpp" />
@@ -315,6 +316,7 @@
     <ClCompile Include="올바른 괄호.cpp" />
     <ClCompile Include="올바른괄호.cpp" />
     <ClCompile Include="왜 안되는데.cpp" />
+    <ClCompile Include="요세퍼스.cpp" />
     <ClCompile Include="욕심쟁이판다.cpp" />
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유기농배추리바이벌.cpp" />
@@ -358,6 +360,7 @@
     <ClCompile Include="카카오먹방.cpp" />
     <ClCompile Include="컬러볼.cpp" />
     <ClCompile Include="케빈베이컨의6단계법칙.cpp" />
+    <ClCompile Include="큐.cpp" />
     <ClCompile Include="키순서.cpp" />
     <ClCompile Include="타겟넘버.cpp" />
     <ClCompile Include="탈출.cpp" />
