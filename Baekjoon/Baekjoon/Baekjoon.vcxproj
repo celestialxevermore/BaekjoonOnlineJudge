@@ -160,6 +160,8 @@
     <ClCompile Include="LIS.cpp" />
     <ClCompile Include="LIS개념.cpp" />
     <ClCompile Include="N-queen.cpp" />
+    <ClCompile Include="OOP.cpp" />
+    <ClCompile Include="Overriding_Overloading.cpp" />
     <ClCompile Include="pair자료형.cpp" />
     <ClCompile Include="print1.cpp" />
     <ClCompile Include="PuyoPuyo.cpp" />
