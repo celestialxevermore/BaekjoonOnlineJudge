@@ -28,7 +28,39 @@
 //
 //		for (int i = 0; i < 4; i++) {
 //			if (current.op[i] != 0) {
+//				int next_ = current.op[i] - 1;
+//				int index = i;
+//				for (int j = 0; j < 4; j++) {
+//					next.op[j] = current.op[j];
+//				}
+//				next.op[index] = next_;
+//				
+//				switch (index) {
+//				case 0:
+//					next.cur = current.cur + arr[level + 1]; 
+//					DFS(level + 1, next);
+//					break;
 //
+//				case 1:
+//					next.cur = current.cur - arr[level + 1]; 
+//					DFS(level + 1, next); 
+//					break;
+//
+//				case 2:
+//					next.cur = current.cur * arr[level + 1]; 
+//					DFS(level + 1, next);
+//					break;
+//
+//				case 3:
+//					next.cur = current.cur / arr[level + 1]; 
+//					DFS(level + 1, next);
+//					break;
+//				}
+//					
+//
+//			}
+//			else {
+//				continue;
 //			}
 //		}
 //
@@ -58,6 +90,7 @@
 //	DFS(level, start);
 //
 //
-//
+//	printf("%d\n", maxi);
+//	printf("%d\n", mini);
 //
 //}
