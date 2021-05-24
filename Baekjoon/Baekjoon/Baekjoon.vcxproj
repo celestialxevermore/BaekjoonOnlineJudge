@@ -162,6 +162,7 @@
     <ClCompile Include="N-queen.cpp" />
     <ClCompile Include="OOP.cpp" />
     <ClCompile Include="Overriding_Overloading.cpp" />
+    <ClCompile Include="paging.cpp" />
     <ClCompile Include="pair자료형.cpp" />
     <ClCompile Include="print1.cpp" />
     <ClCompile Include="PuyoPuyo.cpp" />
@@ -378,6 +379,8 @@
     <ClCompile Include="토마토시발련아.cpp" />
     <ClCompile Include="토맛토마토.cpp" />
     <ClCompile Include="퇴사2.cpp" />
+    <ClCompile Include="트리 순회.cpp" />
+    <ClCompile Include="트리.cpp" />
     <ClCompile Include="트리의 부모찾기.cpp" />
     <ClCompile Include="트리의 지름.cpp" />
     <ClCompile Include="트리의 지름2.cpp" />
@@ -395,6 +398,7 @@
     <ClCompile Include="피보나치수2.cpp" />
     <ClCompile Include="피보나치함수.cpp" />
     <ClCompile Include="피자배달거리.cpp" />
+    <ClCompile Include="한수.cpp" />
     <ClCompile Include="합이 같은 부분집합.cpp" />
     <ClCompile Include="회장뽑기.cpp" />
     <ClCompile Include="효율적인 해킹.cpp" />
