@@ -1,3 +1,2 @@
 # BaekjoonOnlineJudge
-# To upgrade my problem solving skill
-# Click twice to access source code
+수많은 노동 고비용 저효율 
