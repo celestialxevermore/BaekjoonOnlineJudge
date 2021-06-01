@@ -290,6 +290,7 @@
     <ClCompile Include="숫자판점프2.cpp" />
     <ClCompile Include="스타트링크.cpp" />
     <ClCompile Include="스타트와 링크.cpp" />
+    <ClCompile Include="스타트와링크.cpp" />
     <ClCompile Include="스택.cpp" />
     <ClCompile Include="스택2.cpp" />
     <ClCompile Include="신규 아이디 추천.cpp" />
@@ -324,7 +325,9 @@
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유기농배추리바이벌.cpp" />
     <ClCompile Include="유니온앤파인드.cpp" />
+    <ClCompile Include="유니온파이드.cpp" />
     <ClCompile Include="이분 그래프.cpp" />
+    <ClCompile Include="이분그래프.cpp" />
     <ClCompile Include="이진트리.cpp" />
     <ClCompile Include="이진트리일반큐.cpp" />
     <ClCompile Include="이항계수(메모이제이션).cpp" />
