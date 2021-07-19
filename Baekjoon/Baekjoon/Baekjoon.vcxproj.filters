@@ -816,9 +816,6 @@
     <ClCompile Include="스타트와링크.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="유니온파이드.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="do.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
