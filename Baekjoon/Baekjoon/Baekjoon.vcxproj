@@ -209,6 +209,7 @@
     <ClCompile Include="네트워크선자르기2.cpp" />
     <ClCompile Include="늑대와양.cpp" />
     <ClCompile Include="늑대와양tmp.cpp" />
+    <ClCompile Include="다리 놓기.cpp" />
     <ClCompile Include="다리 만들기 복습.cpp" />
     <ClCompile Include="다리 만들기.cpp" />
     <ClCompile Include="다리 만만들기.cpp" />
@@ -329,6 +330,7 @@
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유기농배추리바이벌.cpp" />
     <ClCompile Include="유니온앤파인드.cpp" />
+    <ClCompile Include="음식물피하기.cpp" />
     <ClCompile Include="이분 그래프.cpp" />
     <ClCompile Include="이분그래프.cpp" />
     <ClCompile Include="이진트리.cpp" />

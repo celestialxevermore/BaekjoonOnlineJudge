@@ -828,6 +828,12 @@
     <ClCompile Include="testtt.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="음식물피하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다리 놓기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="tmp.체ㅔ" />
