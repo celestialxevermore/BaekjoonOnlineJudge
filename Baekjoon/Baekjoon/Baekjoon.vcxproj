@@ -155,11 +155,13 @@
     <ClCompile Include="DFS.cpp" />
     <ClCompile Include="DFS로미로찾기.cpp" />
     <ClCompile Include="DFS스페셜저지.cpp" />
+    <ClCompile Include="do.cpp" />
     <ClCompile Include="DSLF.cpp" />
     <ClCompile Include="k진수출력.cpp" />
     <ClCompile Include="LIS.cpp" />
     <ClCompile Include="LIS개념.cpp" />
     <ClCompile Include="N-queen.cpp" />
+    <ClCompile Include="N과 M.cpp" />
     <ClCompile Include="OOP.cpp" />
     <ClCompile Include="Overriding_Overloading.cpp" />
     <ClCompile Include="paging.cpp" />
@@ -305,6 +307,7 @@
     <ClCompile Include="알리.cpp" />
     <ClCompile Include="알리바바와40인의도둑.cpp" />
     <ClCompile Include="알파벳.cpp" />
+    <ClCompile Include="양.cpp" />
     <ClCompile Include="에디터.cpp" />
     <ClCompile Include="연결 요소의 개수.cpp" />
     <ClCompile Include="연구소 다시.cpp" />
@@ -409,6 +412,7 @@
     <ClCompile Include="휴가해설.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="DP.체ㅔ" />
     <None Include="tmp.체ㅔ" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
