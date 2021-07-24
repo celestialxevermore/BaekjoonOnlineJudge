@@ -258,6 +258,7 @@
     <ClCompile Include="봉우리2.cpp" />
     <ClCompile Include="부분집합(DFS).cpp" />
     <ClCompile Include="부분집합.cpp" />
+    <ClCompile Include="부분합.cpp" />
     <ClCompile Include="분해합.cpp" />
     <ClCompile Include="블록의 최댓값.cpp" />
     <ClCompile Include="비밀 지도.cpp" />
@@ -273,6 +274,7 @@
     <ClCompile Include="송아지찾기(20210119).cpp" />
     <ClCompile Include="송아지찾기.cpp" />
     <ClCompile Include="송아지찾기해설.cpp" />
+    <ClCompile Include="수들의 합2.cpp" />
     <ClCompile Include="수들의합2.cpp" />
     <ClCompile Include="수식만들기.cpp" />
     <ClCompile Include="수정렬하기.cpp" />
@@ -343,6 +345,7 @@
     <ClCompile Include="재귀함수.cpp" />
     <ClCompile Include="재귀함수이진수출력.cpp" />
     <ClCompile Include="적록색약.cpp" />
+    <ClCompile Include="적록색약2.cpp" />
     <ClCompile Include="정수 삼각형.cpp" />
     <ClCompile Include="제로.cpp" />
     <ClCompile Include="조합.cpp" />
@@ -397,6 +400,7 @@
     <ClCompile Include="특정수만들기2.cpp" />
     <ClCompile Include="특정한 최단 경로.cpp" />
     <ClCompile Include="파티.cpp" />
+    <ClCompile Include="파티2.cpp" />
     <ClCompile Include="팰린드롬.cpp" />
     <ClCompile Include="평균과 가장 가까운값.cpp" />
     <ClCompile Include="평범한 배낭.cpp" />
@@ -410,6 +414,8 @@
     <ClCompile Include="합이 같은 부분집합.cpp" />
     <ClCompile Include="회장뽑기.cpp" />
     <ClCompile Include="효율적인 해킹.cpp" />
+    <ClCompile Include="효율적인해킹2.cpp" />
+    <ClCompile Include="효율적인해킹3.cpp" />
     <ClCompile Include="휴가.cpp" />
     <ClCompile Include="휴가해설.cpp" />
   </ItemGroup>
