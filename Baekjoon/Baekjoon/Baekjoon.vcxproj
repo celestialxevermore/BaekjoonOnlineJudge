@@ -234,6 +234,7 @@
     <ClCompile Include="말이되고픈원숭이.cpp" />
     <ClCompile Include="문자열2675.cpp" />
     <ClCompile Include="문제1번.cpp" />
+    <ClCompile Include="물통.cpp" />
     <ClCompile Include="미로 탈출.cpp" />
     <ClCompile Include="미로 탐색 리바이벌.cpp" />
     <ClCompile Include="미로 탐색.cpp" />
@@ -292,6 +293,7 @@
     <ClCompile Include="숨바꼭질2222.cpp" />
     <ClCompile Include="숨바꼭질3.cpp" />
     <ClCompile Include="숨바꼭질4.cpp" />
+    <ClCompile Include="숫자고르기.cpp" />
     <ClCompile Include="숫자판점프.cpp" />
     <ClCompile Include="숫자판점프2.cpp" />
     <ClCompile Include="스타트링크.cpp" />
