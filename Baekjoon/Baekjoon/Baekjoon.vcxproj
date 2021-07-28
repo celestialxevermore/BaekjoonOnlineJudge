@@ -157,6 +157,7 @@
     <ClCompile Include="DFS스페셜저지.cpp" />
     <ClCompile Include="do.cpp" />
     <ClCompile Include="DSLF.cpp" />
+    <ClCompile Include="helloWorld.cpp" />
     <ClCompile Include="k진수출력.cpp" />
     <ClCompile Include="LIS.cpp" />
     <ClCompile Include="LIS개념.cpp" />
