@@ -186,6 +186,7 @@
     <ClCompile Include="경로 탐색.cpp" />
     <ClCompile Include="경로탐색(인접리스트).cpp" />
     <ClCompile Include="경로탐색답.cpp" />
+    <ClCompile Include="경쟁적 전염.cpp" />
     <ClCompile Include="계단 오르기.cpp" />
     <ClCompile Include="계단오르기.cpp" />
     <ClCompile Include="공주구하기(조세퍼스).cpp" />
@@ -239,6 +240,7 @@
     <ClCompile Include="미로 탈출.cpp" />
     <ClCompile Include="미로 탐색 리바이벌.cpp" />
     <ClCompile Include="미로 탐색.cpp" />
+    <ClCompile Include="미로만들기.cpp" />
     <ClCompile Include="미로탈출.cpp" />
     <ClCompile Include="미로탈출하기.cpp" />
     <ClCompile Include="미로탐색.cpp" />
@@ -331,6 +333,7 @@
     <ClCompile Include="올바른괄호.cpp" />
     <ClCompile Include="왜 안되는데.cpp" />
     <ClCompile Include="요세퍼스.cpp" />
+    <ClCompile Include="욕심쟁이 판다.cpp" />
     <ClCompile Include="욕심쟁이판다.cpp" />
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유기농배추리바이벌.cpp" />
@@ -349,6 +352,7 @@
     <ClCompile Include="재귀함수이진수출력.cpp" />
     <ClCompile Include="적록색약.cpp" />
     <ClCompile Include="적록색약2.cpp" />
+    <ClCompile Include="정렬연습.cpp" />
     <ClCompile Include="정수 삼각형.cpp" />
     <ClCompile Include="제로.cpp" />
     <ClCompile Include="조합.cpp" />
