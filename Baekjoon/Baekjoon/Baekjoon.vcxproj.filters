@@ -873,6 +873,15 @@
     <ClCompile Include="경쟁적 전염.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="라이언킹심바.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="map자료구조.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="위상정렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="tmp.체ㅔ" />

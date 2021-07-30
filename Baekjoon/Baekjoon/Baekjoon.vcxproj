@@ -161,6 +161,7 @@
     <ClCompile Include="k진수출력.cpp" />
     <ClCompile Include="LIS.cpp" />
     <ClCompile Include="LIS개념.cpp" />
+    <ClCompile Include="map자료구조.cpp" />
     <ClCompile Include="N-queen.cpp" />
     <ClCompile Include="N과 M.cpp" />
     <ClCompile Include="OOP.cpp" />
@@ -224,6 +225,7 @@
     <ClCompile Include="동전0.cpp" />
     <ClCompile Include="드래곤커브.cpp" />
     <ClCompile Include="듣보잡.cpp" />
+    <ClCompile Include="라이언킹심바.cpp" />
     <ClCompile Include="로 봇 청소기.cpp" />
     <ClCompile Include="로봇 청소기.cpp" />
     <ClCompile Include="로봇 청소기4991.cpp" />
@@ -335,6 +337,7 @@
     <ClCompile Include="요세퍼스.cpp" />
     <ClCompile Include="욕심쟁이 판다.cpp" />
     <ClCompile Include="욕심쟁이판다.cpp" />
+    <ClCompile Include="위상정렬.cpp" />
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유기농배추리바이벌.cpp" />
     <ClCompile Include="유니온앤파인드.cpp" />
