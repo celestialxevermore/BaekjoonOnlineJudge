@@ -75,7 +75,7 @@
 //			simba.x = x;
 //			simba.y = y;
 //			simba.ate++;
-//			if (simba.ate >= simba.size)simba.sizeUp();
+//			if (simba.ate >= simba.size)simba.sizeUp();s
 //
 //			map[x][y] = 0;
 //

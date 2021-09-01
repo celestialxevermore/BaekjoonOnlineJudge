@@ -171,8 +171,10 @@
     <ClCompile Include="print1.cpp" />
     <ClCompile Include="PuyoPuyo.cpp" />
     <ClCompile Include="RGB거리.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="test1.c" />
     <ClCompile Include="test1.cpp" />
+    <ClCompile Include="test2.cpp" />
     <ClCompile Include="testtest.cpp" />
     <ClCompile Include="testtt.cpp" />
     <ClCompile Include="Uglynumber.cpp" />
@@ -199,6 +201,7 @@
     <ClCompile Include="구슬탈출2.cpp" />
     <ClCompile Include="구슬탈출22.cpp" />
     <ClCompile Include="구조체를 이용한 vector정렬.cpp" />
+    <ClCompile Include="균형잡힌 세상.cpp" />
     <ClCompile Include="그래프최단거리.cpp" />
     <ClCompile Include="그룹단어체커.cpp" />
     <ClCompile Include="그림.cpp" />
@@ -218,6 +221,8 @@
     <ClCompile Include="다리 만만들기.cpp" />
     <ClCompile Include="다익스트라알고리즘.cpp" />
     <ClCompile Include="단어 공부.cpp" />
+    <ClCompile Include="단어 정렬.cpp" />
+    <ClCompile Include="단지번호 붙이기.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="단지번호붙이기2.cpp" />
     <ClCompile Include="단지번호붙이기BFS.cpp" />
@@ -304,6 +309,7 @@
     <ClCompile Include="스타트링크.cpp" />
     <ClCompile Include="스타트와 링크.cpp" />
     <ClCompile Include="스타트와링크.cpp" />
+    <ClCompile Include="스택 수열.cpp" />
     <ClCompile Include="스택.cpp" />
     <ClCompile Include="스택2.cpp" />
     <ClCompile Include="신규 아이디 추천.cpp" />
@@ -335,6 +341,7 @@
     <ClCompile Include="올바른괄호.cpp" />
     <ClCompile Include="왜 안되는데.cpp" />
     <ClCompile Include="요세퍼스.cpp" />
+    <ClCompile Include="요세푸스문제.cpp" />
     <ClCompile Include="욕심쟁이 판다.cpp" />
     <ClCompile Include="욕심쟁이판다.cpp" />
     <ClCompile Include="위상정렬.cpp" />
@@ -360,6 +367,7 @@
     <ClCompile Include="제로.cpp" />
     <ClCompile Include="조합.cpp" />
     <ClCompile Include="조합구하기.cpp" />
+    <ClCompile Include="체스판 다시 칠하기.cpp" />
     <ClCompile Include="촌수계산.cpp" />
     <ClCompile Include="촌수계산2.cpp" />
     <ClCompile Include="최대 수입 스케줄.cpp" />
@@ -380,6 +388,7 @@
     <ClCompile Include="치킨 거리.cpp" />
     <ClCompile Include="친구찾기.cpp" />
     <ClCompile Include="침투.cpp" />
+    <ClCompile Include="침투백준.cpp" />
     <ClCompile Include="카드역배치.cpp" />
     <ClCompile Include="카카오먹방.cpp" />
     <ClCompile Include="컬러볼.cpp" />
@@ -395,6 +404,7 @@
     <ClCompile Include="테트로미노.cpp" />
     <ClCompile Include="테트로미노2.cpp" />
     <ClCompile Include="토마토.cpp" />
+    <ClCompile Include="토마토2021.cpp" />
     <ClCompile Include="토마토3차원.cpp" />
     <ClCompile Include="토마토시바랄년아.cpp" />
     <ClCompile Include="토마토시발련아.cpp" />
