@@ -97,8 +97,8 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
-      <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions);CRT_SECURE_NO_WARNINGS_</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -144,6 +144,7 @@
     <ClCompile Include="2048(easy).cpp" />
     <ClCompile Include="2n타일링.cpp" />
     <ClCompile Include="2차원배열의합.cpp" />
+    <ClCompile Include="30.cpp" />
     <ClCompile Include="ABCDE.cpp" />
     <ClCompile Include="ATM.cpp" />
     <ClCompile Include="A에서B.cpp" />
@@ -158,6 +159,7 @@
     <ClCompile Include="do.cpp" />
     <ClCompile Include="DSLF.cpp" />
     <ClCompile Include="helloWorld.cpp" />
+    <ClCompile Include="K번째 큰수.cpp" />
     <ClCompile Include="k진수출력.cpp" />
     <ClCompile Include="LIS.cpp" />
     <ClCompile Include="LIS개념.cpp" />
@@ -177,6 +179,7 @@
     <ClCompile Include="test2.cpp" />
     <ClCompile Include="testtest.cpp" />
     <ClCompile Include="testtt.cpp" />
+    <ClCompile Include="testttttt22.cpp" />
     <ClCompile Include="Uglynumber.cpp" />
     <ClCompile Include="vector생성방법.cpp" />
     <ClCompile Include="가장긴증가하는부분수열.cpp" />
@@ -221,6 +224,8 @@
     <ClCompile Include="다리 만만들기.cpp" />
     <ClCompile Include="다익스트라알고리즘.cpp" />
     <ClCompile Include="단어 공부.cpp" />
+    <ClCompile Include="단어 뒤집기2 해답.cpp" />
+    <ClCompile Include="단어 뒤집기2.cpp" />
     <ClCompile Include="단어 정렬.cpp" />
     <ClCompile Include="단지번호 붙이기.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
@@ -278,6 +283,7 @@
     <ClCompile Include="삽입정렬.cpp" />
     <ClCompile Include="상범 빌딩.cpp" />
     <ClCompile Include="색종이만들기.cpp" />
+    <ClCompile Include="서든어택3.cpp" />
     <ClCompile Include="설탕배달.cpp" />
     <ClCompile Include="섬나라아일랜드.cpp" />
     <ClCompile Include="섬의개수.cpp" />
@@ -362,6 +368,7 @@
     <ClCompile Include="재귀함수이진수출력.cpp" />
     <ClCompile Include="적록색약.cpp" />
     <ClCompile Include="적록색약2.cpp" />
+    <ClCompile Include="접미사배열.cpp" />
     <ClCompile Include="정렬연습.cpp" />
     <ClCompile Include="정수 삼각형.cpp" />
     <ClCompile Include="제로.cpp" />
@@ -434,8 +441,10 @@
     <ClCompile Include="합이 같은 부분집합.cpp" />
     <ClCompile Include="회장뽑기.cpp" />
     <ClCompile Include="효율적인 해킹.cpp" />
+    <ClCompile Include="효율적인 해킹2.cpp" />
     <ClCompile Include="효율적인해킹2.cpp" />
     <ClCompile Include="효율적인해킹3.cpp" />
+    <ClCompile Include="후보키.cpp" />
     <ClCompile Include="휴가.cpp" />
     <ClCompile Include="휴가해설.cpp" />
   </ItemGroup>
