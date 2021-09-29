@@ -75,6 +75,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
+    <EmbedManifest>false</EmbedManifest>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -104,6 +105,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>Setupapi.lib</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -151,7 +153,9 @@
     <ClCompile Include="BFS.cpp" />
     <ClCompile Include="BFS그래프 최단거리.cpp" />
     <ClCompile Include="BFS복습.cpp" />
-    <ClCompile Include="bfs연습.cpp" />
+    <ClCompile Include="bfs연습.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="BFS최단거리해설.cpp" />
     <ClCompile Include="DFS.cpp" />
     <ClCompile Include="DFS로미로찾기.cpp" />
@@ -176,10 +180,14 @@
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test1.c" />
     <ClCompile Include="test1.cpp" />
+    <ClCompile Include="test111.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="test2.cpp" />
     <ClCompile Include="testtest.cpp" />
     <ClCompile Include="testtt.cpp" />
     <ClCompile Include="testttttt22.cpp" />
+    <ClCompile Include="Testttttttttttttt111111111.cpp" />
     <ClCompile Include="Uglynumber.cpp" />
     <ClCompile Include="vector생성방법.cpp" />
     <ClCompile Include="가장긴증가하는부분수열.cpp" />
@@ -231,6 +239,7 @@
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="단지번호붙이기2.cpp" />
     <ClCompile Include="단지번호붙이기BFS.cpp" />
+    <ClCompile Include="대표값.cpp" />
     <ClCompile Include="동전 2.cpp" />
     <ClCompile Include="동전0.cpp" />
     <ClCompile Include="드래곤커브.cpp" />
@@ -374,6 +383,7 @@
     <ClCompile Include="제로.cpp" />
     <ClCompile Include="조합.cpp" />
     <ClCompile Include="조합구하기.cpp" />
+    <ClCompile Include="쥬사위 게임.cpp" />
     <ClCompile Include="체스판 다시 칠하기.cpp" />
     <ClCompile Include="촌수계산.cpp" />
     <ClCompile Include="촌수계산2.cpp" />
@@ -447,10 +457,6 @@
     <ClCompile Include="후보키.cpp" />
     <ClCompile Include="휴가.cpp" />
     <ClCompile Include="휴가해설.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="DP.체ㅔ" />
-    <None Include="tmp.체ㅔ" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
