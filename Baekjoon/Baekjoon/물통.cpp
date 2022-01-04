@@ -1,89 +1,363 @@
 //#include<iostream>
 //#include<vector>
-//#include<queue>
+//#include<algorithm>
+//
 //using namespace std;
 //
 //bool visited[201][201][201];
 //
-//typedef struct info {
-//	int A;
-//	int B;
-//	int C;
+//int A, B, C;
+//int res[2000];
+//int rescnt = 0;
 //
-//	info(int a, int b, int c) {
-//		A = a;
-//		B = b;
-//		C = c;
-//	}
+//void BFS(int a, int b, int c) {
+//	
 //
-//}Info;
-//
-//
-//int abc[3];
-//queue<Info>Q;
-//int check[2000];
-//int chcnt = 0;
-//
-//
-//void BFS() {
-//
-//	Info current(0, 0, 0);
-//
-//	while (!Q.empty()) {
-//
-//		current = Q.front();
-//		Q.pop();
-//		int flag = 0;
-//		int cache[3];
-//		cache[0] = current.A;
-//		cache[1] = current.B;
-//		cache[2] = current.C;
-//		int notzero[3];
-//		int notzerocnt = 0;
-//
-//		for (int i = 0; i < 3; i++) {
-//			if (cache[i] == 0) {
-//				continue;
+//	
+//	
+//		//c만 0이 아닌경우
+//		if (a == 0 && b == 0 && c != 0) {
+//			int cc = c;
+//			if (c > A) {
+//				a = A;
+//				c = c - A;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					BFS(a, b, c);
+//				}
 //			}
 //			else {
-//				notzero[notzerocnt++] = cache[i];
-//			}
-//		}
-//
-//
-//		for (int i = 0; i < 3; i++) {
-//
-//			if (cache[i] == 0) {
-//				for (int j = 0; j < notzerocnt; j++) {
-//
+//				a = c;
+//				c = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					BFS(a, b, c);
 //				}
 //			}
 //
+//			if (c > B) {
+//				b = B;
+//				c = c - B;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				b = c;
+//				c = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					BFS(a, b, c);
+//				}
+//			}
+//
+//
+//		}
+//		//b만 0이 아닌 경우
+//		else if (a == 0 && b != 0 && c == 0) {
+//			if (b > A) {
+//				a = A;
+//				b = b - A;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				a = b;
+//				b = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//
+//			if (b > c) {
+//				c = C;
+//				b = b - C;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				c = b;
+//				b = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//		}
+//		//a만 0이 아닌 경우
+//		else if (a != 0 && b == 0 && c == 0) {
+//			if (a > B) {
+//				b = B;
+//				a = a - B;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				b = a;
+//				a = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//
+//			if (a > c) {
+//				c = C;
+//				a = a - C;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				c = a;
+//				a = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//		}
+//		
+//		//a만 0인 경우
+//		else if (a == 0 && b != 0 && c != 0) {
+//			
+//			//b에 대해서
+//			if (b > A) {
+//				a = A;
+//				b = b - A;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				a = b;
+//				b = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//
+//
+//			if (c > A) {
+//				a = A;
+//				c = c - A;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				a = c;
+//				c = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//
+//
+//
+//
+//		}
+//		//b만 0인 경우
+//		else if (a != 0 && b == 0 && c != 0) {
+//			
+//			if (a > B) {
+//				b = B;
+//				a = a - B;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				b = a;
+//				a = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//
+//			if (c > B) {
+//				b = B;
+//				c = c - B;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				b = c;
+//				c = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//
+//
+//		}
+//		//c만 0인 경우
+//		else if (a == 0 && b != 0 && c != 0) {
+//			if (b > A) {
+//				a = A;
+//				b = b - A;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				a = b;
+//				b = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			
+//			if (c > A) {
+//				a = A;
+//				c = c - A;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//			else {
+//				a = c;
+//				c = 0;
+//				if (!visited[a][b][c]) {
+//					visited[a][b][c] = true;
+//					printf("BFS(%d, %d, %d)\n\n", a, b, c);
+//					if (a == 0 && c != 0) {
+//						res[rescnt++] = c;
+//					}
+//					BFS(a, b, c);
+//				}
+//			}
+//
+//		
 //		}
 //
-//
-//	}
+//	
 //
 //
 //}
 //
-//
-//
 //int main() {
 //
-//	for (int i = 0; i < 3; i++) {
-//		cin >> abc[i];
+//	cin >> A >> B >> C;
+//
+//	BFS(0, 0, C);
+//
+//	for (int i = 0; i < rescnt; i++) {
+//		cout << res[i];
 //	}
-//
-//
-//
-//	check[abc[2]]++;
-//	visited[0][0][abc[2]] = true;
-//	Q.push(Info(0, 0, abc[2]));
-//
-//	BFS();
-//
-//	
 //
 //
 //}
