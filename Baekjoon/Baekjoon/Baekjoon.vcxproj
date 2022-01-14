@@ -258,7 +258,9 @@
     <ClCompile Include="로봇청소기24991.cpp" />
     <ClCompile Include="로봇청소기4991.cpp" />
     <ClCompile Include="마구간 정하기.cpp" />
+    <ClCompile Include="말이 되고픈 원숭이2.cpp" />
     <ClCompile Include="말이되고픈원숭이.cpp" />
+    <ClCompile Include="맵자료구조.cpp" />
     <ClCompile Include="문서 검색.cpp" />
     <ClCompile Include="문자열2675.cpp" />
     <ClCompile Include="문제1번.cpp" />
@@ -266,6 +268,7 @@
     <ClCompile Include="미로 탈출.cpp" />
     <ClCompile Include="미로 탐색 리바이벌.cpp" />
     <ClCompile Include="미로 탐색.cpp" />
+    <ClCompile Include="미로 탐색2.cpp" />
     <ClCompile Include="미로만들기.cpp" />
     <ClCompile Include="미로만들기2.cpp" />
     <ClCompile Include="미로탈출.cpp" />
@@ -281,6 +284,7 @@
     <ClCompile Include="백준2178bfs.cpp" />
     <ClCompile Include="백준2178번.cpp" />
     <ClCompile Include="백준dfsbfs.cpp" />
+    <ClCompile Include="백준조합.cpp" />
     <ClCompile Include="벽 부수고 이동하기.cpp" />
     <ClCompile Include="벽부수고이동하기.cpp" />
     <ClCompile Include="벽부수고이동하기다시.cpp" />
@@ -387,12 +391,14 @@
     <ClCompile Include="재귀함수이진수출력.cpp" />
     <ClCompile Include="적록색약.cpp" />
     <ClCompile Include="적록색약2.cpp" />
+    <ClCompile Include="전쟁 - 전투.cpp" />
     <ClCompile Include="접미사배열.cpp" />
     <ClCompile Include="정렬연습.cpp" />
     <ClCompile Include="정수 삼각형.cpp" />
     <ClCompile Include="제로.cpp" />
     <ClCompile Include="조합.cpp" />
     <ClCompile Include="조합구하기.cpp" />
+    <ClCompile Include="조합연습2.cpp" />
     <ClCompile Include="쥬사위 게임.cpp" />
     <ClCompile Include="체스판 다시 칠하기.cpp" />
     <ClCompile Include="촌수계산.cpp" />
