@@ -223,6 +223,7 @@
     <ClCompile Include="기차운행2.cpp" />
     <ClCompile Include="깊이우선탐색.cpp" />
     <ClCompile Include="나이트의이동.cpp" />
+    <ClCompile Include="내리막길.cpp" />
     <ClCompile Include="네트워크.cpp" />
     <ClCompile Include="네트워크선자르기.cpp" />
     <ClCompile Include="네트워크선자르기2.cpp" />
@@ -286,10 +287,12 @@
     <ClCompile Include="백준dfsbfs.cpp" />
     <ClCompile Include="백준조합.cpp" />
     <ClCompile Include="벽 부수고 이동하기.cpp" />
+    <ClCompile Include="벽 부수고 이동하기2.cpp" />
     <ClCompile Include="벽부수고이동하기.cpp" />
     <ClCompile Include="벽부수고이동하기다시.cpp" />
     <ClCompile Include="병합정렬.cpp" />
     <ClCompile Include="보물섬.cpp" />
+    <ClCompile Include="보물섬2.cpp" />
     <ClCompile Include="봉우리.cpp" />
     <ClCompile Include="봉우리2.cpp" />
     <ClCompile Include="부분집합(DFS).cpp" />

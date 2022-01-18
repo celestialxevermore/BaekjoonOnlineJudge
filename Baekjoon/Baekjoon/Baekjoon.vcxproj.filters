@@ -1005,5 +1005,14 @@
     <ClCompile Include="맵자료구조.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="내리막길.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="벽 부수고 이동하기2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="보물섬2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
