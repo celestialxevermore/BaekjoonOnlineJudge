@@ -254,6 +254,7 @@
     <ClCompile Include="로봇 청소기.cpp" />
     <ClCompile Include="로봇 청소기4991.cpp" />
     <ClCompile Include="로봇.cpp" />
+    <ClCompile Include="로봇1726.cpp" />
     <ClCompile Include="로봇2.cpp" />
     <ClCompile Include="로봇청소기.cpp" />
     <ClCompile Include="로봇청소기24991.cpp" />
@@ -335,8 +336,10 @@
     <ClCompile Include="숫자고르기.cpp" />
     <ClCompile Include="숫자고르기다시.cpp" />
     <ClCompile Include="숫자판 점프.cpp" />
+    <ClCompile Include="숫자판 점프2.cpp" />
     <ClCompile Include="숫자판점프.cpp" />
     <ClCompile Include="숫자판점프2.cpp" />
+    <ClCompile Include="쉬운 최단거리.cpp" />
     <ClCompile Include="스타트링크.cpp" />
     <ClCompile Include="스타트와 링크.cpp" />
     <ClCompile Include="스타트와링크.cpp" />
@@ -402,6 +405,7 @@
     <ClCompile Include="조합.cpp" />
     <ClCompile Include="조합구하기.cpp" />
     <ClCompile Include="조합연습2.cpp" />
+    <ClCompile Include="벽 부수고 이동하기 2.cpp" />
     <ClCompile Include="쥬사위 게임.cpp" />
     <ClCompile Include="체스판 다시 칠하기.cpp" />
     <ClCompile Include="촌수계산.cpp" />

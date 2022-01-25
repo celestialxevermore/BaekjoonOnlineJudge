@@ -1014,5 +1014,17 @@
     <ClCompile Include="보물섬2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="로봇1726.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="쉬운 최단거리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="벽 부수고 이동하기 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자판 점프2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
