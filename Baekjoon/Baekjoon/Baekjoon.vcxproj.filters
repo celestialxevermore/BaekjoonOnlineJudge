@@ -1026,5 +1026,26 @@
     <ClCompile Include="숫자판 점프2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="실행확인파일.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="영역 씨발 구하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토토.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tt.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tt.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="테스트.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="보보물섬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
