@@ -322,6 +322,7 @@
     <ClCompile Include="수들의 합2.cpp" />
     <ClCompile Include="수들의합2.cpp" />
     <ClCompile Include="수식만들기.cpp" />
+    <ClCompile Include="수열.cpp" />
     <ClCompile Include="수정렬하기.cpp" />
     <ClCompile Include="수정렬하기2.cpp" />
     <ClCompile Include="순열구하기(20210119).cpp" />
