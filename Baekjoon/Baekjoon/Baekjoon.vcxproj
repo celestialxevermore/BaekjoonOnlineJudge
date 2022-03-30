@@ -282,6 +282,7 @@
     <ClCompile Include="바이러스.cpp" />
     <ClCompile Include="밥.cpp" />
     <ClCompile Include="배열.cpp" />
+    <ClCompile Include="백조의 호수.cpp" />
     <ClCompile Include="백준1260.cpp" />
     <ClCompile Include="백준12601.cpp" />
     <ClCompile Include="백준1260BFSDFS.cpp" />
