@@ -146,7 +146,10 @@
     <ClCompile Include="2048(easy).cpp" />
     <ClCompile Include="2n타일링.cpp" />
     <ClCompile Include="2차원배열의합.cpp" />
+    <ClCompile Include="2차원벡터 연습2.cpp" />
+    <ClCompile Include="2차원벡터연습.cpp" />
     <ClCompile Include="30.cpp" />
+    <ClCompile Include="aa.cpp" />
     <ClCompile Include="ABCDE.cpp" />
     <ClCompile Include="ATM.cpp" />
     <ClCompile Include="A에서B.cpp" />
@@ -173,6 +176,7 @@
     <ClCompile Include="N과 M.cpp" />
     <ClCompile Include="OOP.cpp" />
     <ClCompile Include="Overriding_Overloading.cpp" />
+    <ClCompile Include="p.cpp" />
     <ClCompile Include="paging.cpp" />
     <ClCompile Include="pair자료형.cpp" />
     <ClCompile Include="print1.cpp" />
@@ -224,6 +228,7 @@
     <ClCompile Include="기차운행.cpp" />
     <ClCompile Include="기차운행2.cpp" />
     <ClCompile Include="깊이우선탐색.cpp" />
+    <ClCompile Include="꿀 따기.cpp" />
     <ClCompile Include="나이트의이동.cpp" />
     <ClCompile Include="내리막길.cpp" />
     <ClCompile Include="네트워크.cpp" />
@@ -480,6 +485,7 @@
     <ClCompile Include="피보나치함수.cpp" />
     <ClCompile Include="피자배달거리.cpp" />
     <ClCompile Include="한수.cpp" />
+    <ClCompile Include="합 구하기.cpp" />
     <ClCompile Include="합이 같은 부분집합.cpp" />
     <ClCompile Include="현수막.cpp" />
     <ClCompile Include="회문 문자열.cpp" />
