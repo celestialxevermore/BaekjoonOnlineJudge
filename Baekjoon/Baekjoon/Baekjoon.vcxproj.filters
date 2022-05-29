@@ -1071,5 +1071,14 @@
     <ClCompile Include="2차원벡터 연습2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="gitaa.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="미로탐색20220510.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="평행선.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

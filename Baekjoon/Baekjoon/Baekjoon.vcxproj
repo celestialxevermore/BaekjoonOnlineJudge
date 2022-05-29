@@ -166,6 +166,7 @@
     <ClCompile Include="do.cpp" />
     <ClCompile Include="DSLF.cpp" />
     <ClCompile Include="Featuremap.cpp" />
+    <ClCompile Include="gitaa.cpp" />
     <ClCompile Include="helloWorld.cpp" />
     <ClCompile Include="K번째 큰수.cpp" />
     <ClCompile Include="k진수출력.cpp" />
@@ -283,6 +284,7 @@
     <ClCompile Include="미로탈출.cpp" />
     <ClCompile Include="미로탈출하기.cpp" />
     <ClCompile Include="미로탐색.cpp" />
+    <ClCompile Include="미로탐색20220510.cpp" />
     <ClCompile Include="미친로봇.cpp" />
     <ClCompile Include="바이러스.cpp" />
     <ClCompile Include="밥.cpp" />
@@ -478,6 +480,7 @@
     <ClCompile Include="팰린드롬.cpp" />
     <ClCompile Include="평균과 가장 가까운값.cpp" />
     <ClCompile Include="평범한 배낭.cpp" />
+    <ClCompile Include="평행선.cpp" />
     <ClCompile Include="포도주 시식.cpp" />
     <ClCompile Include="프린터큐.cpp" />
     <ClCompile Include="플로이드와샬.cpp" />
