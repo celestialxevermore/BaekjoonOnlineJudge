@@ -166,7 +166,11 @@
     <ClCompile Include="do.cpp" />
     <ClCompile Include="DSLF.cpp" />
     <ClCompile Include="Featuremap.cpp" />
+<<<<<<< HEAD
+    <ClCompile Include="git_test.cpp" />
+=======
     <ClCompile Include="gitaa.cpp" />
+>>>>>>> 9c0328baecd1ab8c0e7c0f8062154c9af4d40042
     <ClCompile Include="helloWorld.cpp" />
     <ClCompile Include="K번째 큰수.cpp" />
     <ClCompile Include="k진수출력.cpp" />
@@ -194,8 +198,12 @@
     <ClCompile Include="testtt.cpp" />
     <ClCompile Include="testttttt22.cpp" />
     <ClCompile Include="Testttttttttttttt111111111.cpp" />
+<<<<<<< HEAD
+    <ClCompile Include="ttest.cpp" />
+=======
     <ClCompile Include="tt.c" />
     <ClCompile Include="tt.cpp" />
+>>>>>>> 9c0328baecd1ab8c0e7c0f8062154c9af4d40042
     <ClCompile Include="Uglynumber.cpp" />
     <ClCompile Include="vector.cpp" />
     <ClCompile Include="vector생성방법.cpp" />
@@ -229,7 +237,12 @@
     <ClCompile Include="기차운행.cpp" />
     <ClCompile Include="기차운행2.cpp" />
     <ClCompile Include="깊이우선탐색.cpp" />
+<<<<<<< HEAD
+    <ClCompile Include="나는야 포켓몬 마스터 이다솜.cpp" />
+    <ClCompile Include="나는야.cpp" />
+=======
     <ClCompile Include="꿀 따기.cpp" />
+>>>>>>> 9c0328baecd1ab8c0e7c0f8062154c9af4d40042
     <ClCompile Include="나이트의이동.cpp" />
     <ClCompile Include="내리막길.cpp" />
     <ClCompile Include="네트워크.cpp" />
@@ -275,10 +288,12 @@
     <ClCompile Include="문자열2675.cpp" />
     <ClCompile Include="문제1번.cpp" />
     <ClCompile Include="물통.cpp" />
+    <ClCompile Include="미로 만들기2.cpp" />
     <ClCompile Include="미로 탈출.cpp" />
     <ClCompile Include="미로 탐색 리바이벌.cpp" />
     <ClCompile Include="미로 탐색.cpp" />
     <ClCompile Include="미로 탐색2.cpp" />
+    <ClCompile Include="미로 탐색22.cpp" />
     <ClCompile Include="미로만들기.cpp" />
     <ClCompile Include="미로만들기2.cpp" />
     <ClCompile Include="미로탈출.cpp" />
@@ -286,6 +301,7 @@
     <ClCompile Include="미로탐색.cpp" />
     <ClCompile Include="미로탐색20220510.cpp" />
     <ClCompile Include="미친로봇.cpp" />
+    <ClCompile Include="바닥 장식.cpp" />
     <ClCompile Include="바이러스.cpp" />
     <ClCompile Include="밥.cpp" />
     <ClCompile Include="방 번호.cpp" />
@@ -305,7 +321,11 @@
     <ClCompile Include="병합정렬.cpp" />
     <ClCompile Include="보물섬.cpp" />
     <ClCompile Include="보물섬2.cpp" />
+<<<<<<< HEAD
+    <ClCompile Include="봄버맨.cpp" />
+=======
     <ClCompile Include="보보물섬.cpp" />
+>>>>>>> 9c0328baecd1ab8c0e7c0f8062154c9af4d40042
     <ClCompile Include="봉우리.cpp" />
     <ClCompile Include="봉우리2.cpp" />
     <ClCompile Include="부분집합(DFS).cpp" />
@@ -375,6 +395,7 @@
     <ClCompile Include="알리바바와40인의도둑.cpp" />
     <ClCompile Include="알파벳.cpp" />
     <ClCompile Include="양.cpp" />
+    <ClCompile Include="양치기 꿍.cpp" />
     <ClCompile Include="에디터.cpp" />
     <ClCompile Include="연결 요소의 개수.cpp" />
     <ClCompile Include="연구소 다시.cpp" />
@@ -382,6 +403,7 @@
     <ClCompile Include="연구소2.cpp" />
     <ClCompile Include="연구소2다시.cpp" />
     <ClCompile Include="연구소3.cpp" />
+    <ClCompile Include="연구소33.cpp" />
     <ClCompile Include="연구소3복습.cpp" />
     <ClCompile Include="연구소3해답.cpp" />
     <ClCompile Include="연속합.cpp" />
@@ -414,7 +436,10 @@
     <ClCompile Include="재귀함수이진수출력.cpp" />
     <ClCompile Include="적록색약.cpp" />
     <ClCompile Include="적록색약2.cpp" />
+    <ClCompile Include="전쟁 - 전투 구조체 버전.cpp" />
     <ClCompile Include="전쟁 - 전투.cpp" />
+    <ClCompile Include="전쟁 - 전투2.cpp" />
+    <ClCompile Include="점프 점프.cpp" />
     <ClCompile Include="접미사배열.cpp" />
     <ClCompile Include="정렬연습.cpp" />
     <ClCompile Include="정수 삼각형.cpp" />
@@ -440,6 +465,7 @@
     <ClCompile Include="최소최대씨발.cpp" />
     <ClCompile Include="최소힙.cpp" />
     <ClCompile Include="최소힙2.cpp" />
+    <ClCompile Include="최스판 다시 칠하기.cpp" />
     <ClCompile Include="치즈.cpp" />
     <ClCompile Include="치즈다시.cpp" />
     <ClCompile Include="치킨 거리.cpp" />
