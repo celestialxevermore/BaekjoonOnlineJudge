@@ -29,26 +29,26 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -146,7 +146,10 @@
     <ClCompile Include="2048(easy).cpp" />
     <ClCompile Include="2n타일링.cpp" />
     <ClCompile Include="2차원배열의합.cpp" />
+    <ClCompile Include="2차원벡터 연습2.cpp" />
+    <ClCompile Include="2차원벡터연습.cpp" />
     <ClCompile Include="30.cpp" />
+    <ClCompile Include="aa.cpp" />
     <ClCompile Include="ABCDE.cpp" />
     <ClCompile Include="ATM.cpp" />
     <ClCompile Include="A에서B.cpp" />
@@ -163,7 +166,11 @@
     <ClCompile Include="do.cpp" />
     <ClCompile Include="DSLF.cpp" />
     <ClCompile Include="Featuremap.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="git_test.cpp" />
+=======
+    <ClCompile Include="gitaa.cpp" />
+>>>>>>> 9c0328baecd1ab8c0e7c0f8062154c9af4d40042
     <ClCompile Include="helloWorld.cpp" />
     <ClCompile Include="K번째 큰수.cpp" />
     <ClCompile Include="k진수출력.cpp" />
@@ -174,6 +181,7 @@
     <ClCompile Include="N과 M.cpp" />
     <ClCompile Include="OOP.cpp" />
     <ClCompile Include="Overriding_Overloading.cpp" />
+    <ClCompile Include="p.cpp" />
     <ClCompile Include="paging.cpp" />
     <ClCompile Include="pair자료형.cpp" />
     <ClCompile Include="print1.cpp" />
@@ -190,7 +198,12 @@
     <ClCompile Include="testtt.cpp" />
     <ClCompile Include="testttttt22.cpp" />
     <ClCompile Include="Testttttttttttttt111111111.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="ttest.cpp" />
+=======
+    <ClCompile Include="tt.c" />
+    <ClCompile Include="tt.cpp" />
+>>>>>>> 9c0328baecd1ab8c0e7c0f8062154c9af4d40042
     <ClCompile Include="Uglynumber.cpp" />
     <ClCompile Include="vector.cpp" />
     <ClCompile Include="vector생성방법.cpp" />
@@ -224,8 +237,12 @@
     <ClCompile Include="기차운행.cpp" />
     <ClCompile Include="기차운행2.cpp" />
     <ClCompile Include="깊이우선탐색.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="나는야 포켓몬 마스터 이다솜.cpp" />
     <ClCompile Include="나는야.cpp" />
+=======
+    <ClCompile Include="꿀 따기.cpp" />
+>>>>>>> 9c0328baecd1ab8c0e7c0f8062154c9af4d40042
     <ClCompile Include="나이트의이동.cpp" />
     <ClCompile Include="내리막길.cpp" />
     <ClCompile Include="네트워크.cpp" />
@@ -282,11 +299,13 @@
     <ClCompile Include="미로탈출.cpp" />
     <ClCompile Include="미로탈출하기.cpp" />
     <ClCompile Include="미로탐색.cpp" />
+    <ClCompile Include="미로탐색20220510.cpp" />
     <ClCompile Include="미친로봇.cpp" />
     <ClCompile Include="바닥 장식.cpp" />
     <ClCompile Include="바이러스.cpp" />
     <ClCompile Include="밥.cpp" />
     <ClCompile Include="배열.cpp" />
+    <ClCompile Include="백조의 호수.cpp" />
     <ClCompile Include="백준1260.cpp" />
     <ClCompile Include="백준12601.cpp" />
     <ClCompile Include="백준1260BFSDFS.cpp" />
@@ -301,7 +320,11 @@
     <ClCompile Include="병합정렬.cpp" />
     <ClCompile Include="보물섬.cpp" />
     <ClCompile Include="보물섬2.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="봄버맨.cpp" />
+=======
+    <ClCompile Include="보보물섬.cpp" />
+>>>>>>> 9c0328baecd1ab8c0e7c0f8062154c9af4d40042
     <ClCompile Include="봉우리.cpp" />
     <ClCompile Include="봉우리2.cpp" />
     <ClCompile Include="부분집합(DFS).cpp" />
@@ -326,6 +349,7 @@
     <ClCompile Include="수들의 합2.cpp" />
     <ClCompile Include="수들의합2.cpp" />
     <ClCompile Include="수식만들기.cpp" />
+    <ClCompile Include="수열.cpp" />
     <ClCompile Include="수정렬하기.cpp" />
     <ClCompile Include="수정렬하기2.cpp" />
     <ClCompile Include="순열구하기(20210119).cpp" />
@@ -357,6 +381,7 @@
     <ClCompile Include="신규 아이디 추천.cpp" />
     <ClCompile Include="신나는 함수 실행.cpp" />
     <ClCompile Include="실패율.cpp" />
+    <ClCompile Include="실행확인파일.cpp" />
     <ClCompile Include="아!.cpp" />
     <ClCompile Include="아기상어.cpp" />
     <ClCompile Include="아나그램.cpp" />
@@ -380,6 +405,7 @@
     <ClCompile Include="연구소3복습.cpp" />
     <ClCompile Include="연구소3해답.cpp" />
     <ClCompile Include="연속합.cpp" />
+    <ClCompile Include="영역 씨발 구하기.cpp" />
     <ClCompile Include="영역구하기.cpp" />
     <ClCompile Include="영지선택.cpp" />
     <ClCompile Include="올바른 괄호.cpp" />
@@ -455,6 +481,7 @@
     <ClCompile Include="탈출다시.cpp" />
     <ClCompile Include="탑.cpp" />
     <ClCompile Include="텀프로젝트.cpp" />
+    <ClCompile Include="테스트.cpp" />
     <ClCompile Include="테트로미노.cpp" />
     <ClCompile Include="테트로미노2.cpp" />
     <ClCompile Include="토마토.cpp" />
@@ -462,6 +489,7 @@
     <ClCompile Include="토마토3차원.cpp" />
     <ClCompile Include="토마토시바랄년아.cpp" />
     <ClCompile Include="토마토시발련아.cpp" />
+    <ClCompile Include="토마토토.cpp" />
     <ClCompile Include="토맛토마토.cpp" />
     <ClCompile Include="퇴사2.cpp" />
     <ClCompile Include="트리 순회.cpp" />
@@ -478,6 +506,7 @@
     <ClCompile Include="팰린드롬.cpp" />
     <ClCompile Include="평균과 가장 가까운값.cpp" />
     <ClCompile Include="평범한 배낭.cpp" />
+    <ClCompile Include="평행선.cpp" />
     <ClCompile Include="포도주 시식.cpp" />
     <ClCompile Include="프린터큐.cpp" />
     <ClCompile Include="플로이드와샬.cpp" />
@@ -485,6 +514,7 @@
     <ClCompile Include="피보나치함수.cpp" />
     <ClCompile Include="피자배달거리.cpp" />
     <ClCompile Include="한수.cpp" />
+    <ClCompile Include="합 구하기.cpp" />
     <ClCompile Include="합이 같은 부분집합.cpp" />
     <ClCompile Include="현수막.cpp" />
     <ClCompile Include="회문 문자열.cpp" />
