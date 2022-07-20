@@ -1080,5 +1080,14 @@
     <ClCompile Include="평행선.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="방 번호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="상근이의 여행.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -288,6 +288,7 @@
     <ClCompile Include="미친로봇.cpp" />
     <ClCompile Include="바이러스.cpp" />
     <ClCompile Include="밥.cpp" />
+    <ClCompile Include="방 번호.cpp" />
     <ClCompile Include="배열.cpp" />
     <ClCompile Include="백조의 호수.cpp" />
     <ClCompile Include="백준1260.cpp" />
@@ -316,6 +317,7 @@
     <ClCompile Include="빙산.cpp" />
     <ClCompile Include="사다리조작.cpp" />
     <ClCompile Include="삽입정렬.cpp" />
+    <ClCompile Include="상근이의 여행.cpp" />
     <ClCompile Include="상범 빌딩.cpp" />
     <ClCompile Include="색종이만들기.cpp" />
     <ClCompile Include="서든어택3.cpp" />
@@ -394,6 +396,7 @@
     <ClCompile Include="욕심쟁이 판다.cpp" />
     <ClCompile Include="욕심쟁이판다.cpp" />
     <ClCompile Include="위상정렬.cpp" />
+    <ClCompile Include="윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유.cpp" />
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유기농배추리바이벌.cpp" />
     <ClCompile Include="유니온앤파인드.cpp" />
