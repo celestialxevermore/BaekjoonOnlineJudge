@@ -1089,6 +1089,18 @@
     <ClCompile Include="보보물섬.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
+    <ClCompile Include="씨발text.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Tlqkf.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="testttt.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220723.cpp">
+=======
     <ClCompile Include="백조의 호수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -1121,6 +1133,16 @@
     </ClCompile>
     <ClCompile Include="평행선.cpp">
 >>>>>>> 9c0328baecd1ab8c0e7c0f8062154c9af4d40042
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="방 번호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="상근이의 여행.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유.cpp">
+>>>>>>> 1cd363bbd10831fee0e4e328abfbbd24bd6113cb
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
