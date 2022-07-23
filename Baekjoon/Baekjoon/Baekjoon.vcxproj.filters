@@ -1047,5 +1047,17 @@
     <ClCompile Include="보보물섬.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="씨발text.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Tlqkf.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="testttt.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220723.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
